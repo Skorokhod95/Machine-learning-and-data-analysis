@@ -17,4 +17,4 @@ Specialization consists of 6 courses:
   * Sentiment analysis of reviews
 
 There are my results:
-Certificates (Сертификаты)
+[Certificates (Сертификаты)](https://github.com/Skorokhod95/Machine-learning-and-data-analysis/tree/main/Certificates)
